@@ -1,0 +1,4 @@
+- Add trasnistion effect for whole page
+- Add techstack icons
+- Add about section
+- Add portfolio section
